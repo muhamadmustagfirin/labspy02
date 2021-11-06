@@ -1,0 +1,16 @@
+a = int(input("masukan bilangan 1: "))
+b = int(input("masukan bilangan 2: "))
+c = int(input("masukan bilangan 3: "))
+
+maks = 0
+
+print(a, b, c)
+if a > b:
+    maks = a
+else:
+    maks = b
+
+if c > maks:
+    maks = c
+
+print("bilangan terbesar dari 3 bilangan tersebut adalah: ",maks)
