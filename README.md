@@ -8,4 +8,4 @@
 - Disini saya menginisialisasikan "a" sebagai bilangan pertama, "b" sebagai bilangan kedua, "c" sebagai bilangan ketiga.
 - Dengan cara statement if untuk "a" sebagai bilangan pertamma, elif untuk "b" sebagai bilangan kedua, elif untuk "c" sebagai bilangan ketiga, dan else jika false atau salah, maksudnya jika inputan user di luar program, dia akan menampilkan ini.
 - Berikut program yang saya buat
-![gambar2](ssan/ss2.PNG)
+![gambar2](ssan/Ss2.PNG)
